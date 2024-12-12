@@ -1,4 +1,4 @@
-import ship from "./ship.js"
+import ship from "./src/ship.js"
 
 /*Gameboards should be able to place ships at specific coordinates by calling the ship factory or class.*/
 
